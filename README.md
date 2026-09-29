@@ -1,3 +1,5 @@
+![logo](https://github.com/code-by-taha/code-by-taha/blob/4b8e4869b4d3f5c9aa21c841f7ab670bf4a2749a/logo.png)
+
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">Python & AI Developer | Building, Learning, and Turning Ideas into Code.</h3>
 
